@@ -1,5 +1,8 @@
 package lsy;
 
+/**
+ * @author lsy
+ */
 public class Compare implements Comparable<Compare> {
     public int age;
 
